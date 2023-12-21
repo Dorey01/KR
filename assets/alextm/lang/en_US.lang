@@ -1,0 +1,376 @@
+item.Tron_disk1.name=§6Диск Клу
+case.tooltip.tron_yellow_1=§8===========[ Скин ]===========
+case.tooltip.tron_yellow_2=§8Броня из фильма §6Tron
+case.tooltip.tron_yellow_3=§8Особый эффект: §6След
+case.tooltip.tron_yellow_4=§6оранжевого светоцикла
+case.tooltip.tron_yellow_5=§8==============================
+case.tooltip.tron_yellow_6=§8Содержит в себе §6полный набор
+case.tooltip.tron_yellow_7=§81. §6Шлем Клу §8- 1 шт.
+case.tooltip.tron_yellow_8=§82. §6Кираса Клу §8- 1 шт.
+case.tooltip.tron_yellow_9=§83. §6Поножи Клу §8- 1 шт.
+case.tooltip.tron_yellow_10=§84. §6Ботинки Клу §8- 1 шт.
+case.tooltip.tron_yellow_11=§8==============================
+
+item.Tron_disk2.name=§bДиск Трона
+case.tooltip.tron_blue_1=§8===========[ Скин ]===========
+case.tooltip.tron_blue_2=§8Броня из фильма §bTron
+case.tooltip.tron_blue_3=§8Особый эффект: §bСлед
+case.tooltip.tron_blue_4=§bголубого светоцикла
+case.tooltip.tron_blue_5=§8==============================
+case.tooltip.tron_blue_6=§8Содержит в себе §bполный набор
+case.tooltip.tron_blue_7=§81. §bОчки Трона §8- 1 шт.
+case.tooltip.tron_blue_8=§82. §bКираса Трона §8- 1 шт.
+case.tooltip.tron_blue_9=§83. §bПоножи Трона §8- 1 шт.
+case.tooltip.tron_blue_10=§84. §bБотинки Трона §8- 1 шт.
+case.tooltip.tron_blue_11=§8==============================
+
+item.Tron_disk3.name=§cДиск Ринзлера
+case.tooltip.tron_red_1=§8===========[ Скин ]===========
+case.tooltip.tron_red_2=§8Броня из фильма §cTron
+case.tooltip.tron_red_3=§8Особый эффект: §cСлед
+case.tooltip.tron_red_4=§cкрасного светоцикла
+case.tooltip.tron_red_5=§8==============================
+case.tooltip.tron_red_6=§8Содержит в себе §cполный набор
+case.tooltip.tron_red_7=§81. §cШлем Ринзлера §8- 1 шт.
+case.tooltip.tron_red_8=§82. §cКираса Ринзлера §8- 1 шт.
+case.tooltip.tron_red_9=§83. §cПоножи Ринзлера §8- 1 шт.
+case.tooltip.tron_red_10=§84. §cБотинки Ринзлера §8- 1 шт.
+case.tooltip.tron_red_11=§8==============================
+
+item.Tron_disk4.name=§aСинтезированный диск Трона
+case.tooltip.tron_green_1=§8===========[ Скин ]===========
+case.tooltip.tron_green_2=§8Броня из фильма §aTron
+case.tooltip.tron_green_3=§8Особый эффект: §aСлед
+case.tooltip.tron_green_4=§aзелёного светоцикла
+case.tooltip.tron_green_5=§8==============================
+case.tooltip.tron_green_6=§8Содержит в себе §aполный набор
+case.tooltip.tron_green_7=§81. §aСинтезированный шлем Трона §8- 1 шт.
+case.tooltip.tron_green_8=§82. §aСинтезированная кираса Трона §8- 1 шт.
+case.tooltip.tron_green_9=§83. §aСинтезированные поножи Трона §8- 1 шт.
+case.tooltip.tron_green_10=§84. §aСинтезированные ботинки Трона §8- 1 шт.
+case.tooltip.tron_green_11=§8==============================
+
+item.Tron_disk5.name=§dСинтезированный диск Трона
+case.tooltip.tron_purple_1=§8===========[ Скин ]===========
+case.tooltip.tron_purple_2=§8Броня из фильма §dTron
+case.tooltip.tron_purple_3=§8Особый эффект: §dСлед
+case.tooltip.tron_purple_4=§dпурпурного светоцикла
+case.tooltip.tron_purple_5=§8==============================
+case.tooltip.tron_purple_6=§8Содержит в себе §dполный набор
+case.tooltip.tron_purple_7=§81. §dСинтезированный шлем Трона §8- 1 шт.
+case.tooltip.tron_purple_8=§82. §dСинтезированная кираса Трона §8- 1 шт.
+case.tooltip.tron_purple_9=§83. §dСинтезированные поножи Трона §8- 1 шт.
+case.tooltip.tron_purple_10=§84. §dСинтезированные ботинки Трона §8- 1 шт.
+case.tooltip.tron_purple_11=§8==============================
+
+item.Devil_stone.name=§cКамень бездны
+case.tooltip.devil_1=§8===========[ Скин ]===========
+case.tooltip.devil_2=§8Доспехи самого §cДьявола
+case.tooltip.devil_3=§8Особый эффект: §cПоглощение тьмы
+case.tooltip.devil_4=§8==============================
+case.tooltip.devil_5=§8Содержит в себе §cполный набор
+case.tooltip.devil_6=§81. §cШлем бездны §8- 1 шт.
+case.tooltip.devil_7=§82. §cКираса бездны §8- 1 шт.
+case.tooltip.devil_8=§83. §cПоножи бездны §8- 1 шт.
+case.tooltip.devil_9=§84. §cБотинки бездны §8- 1 шт.
+case.tooltip.devil_10=§8==============================
+
+item.Creeper_dust.name=§aЗаряженный порох
+case.tooltip.creep_1=§8===========[ Скин ]===========
+case.tooltip.creep_2=§8Броня §aкрипера
+case.tooltip.creep_3=§8Особый эффект: §aЗаряд
+case.tooltip.creep_4=§8==============================
+case.tooltip.creep_5=§8Содержит в себе §aполный набор
+case.tooltip.creep_6=§81. §aШлем крипера §8- 1 шт.
+case.tooltip.creep_7=§82. §aКираса крипера §8- 1 шт.
+case.tooltip.creep_8=§83. §aПоножи крипера §8- 1 шт.
+case.tooltip.creep_9=§84. §aБотинки крипера §8- 1 шт.
+case.tooltip.creep_10=§8==============================
+
+item.Tron_head_yellow.name=§6Шлем Клу
+item.Tron_chest_yellow.name=§6Кираса Клу
+item.Tron_leggs_yellow.name=§6Поножи Клу
+item.Tron_boots_yellow.name=§6Ботинки Клу
+armor.tooltip.tron_yellow_1=§8===========[ Скин ]===========
+armor.tooltip.tron_yellow_2=§8Броня из фильма §6Tron
+armor.tooltip.tron_yellow_3=§8Особый эффект: §6След
+armor.tooltip.tron_yellow_4=§6оранжевого светоцикла
+armor.tooltip.tron_yellow_5=§8==============================
+
+item.Tron_head_blue.name=§bОчки Трона
+item.Tron_chest_blue.name=§bКираса Трона
+item.Tron_leggs_blue.name=§bПоножи Трона
+item.Tron_boots_blue.name=§bБотинки Трона
+armor.tooltip.tron_blue_1=§8===========[ Скин ]===========
+armor.tooltip.tron_blue_2=§8Броня из фильма §bTron
+armor.tooltip.tron_blue_3=§8Особый эффект: §bСлед
+armor.tooltip.tron_blue_4=§bголубого светоцикла
+armor.tooltip.tron_blue_5=§8==============================
+tile.CreonitOre.name=§bКреонитовая руда
+item.Tron_head_red.name=§cШлем Ринзлера
+item.Tron_chest_red.name=§cКираса Ринзлера
+item.Tron_leggs_red.name=§cПоножи Ринзлера
+item.Tron_boots_red.name=§cБотинки Ринзлера
+armor.tooltip.tron_red_1=§8===========[ Скин ]===========
+armor.tooltip.tron_red_2=§8Броня из фильма §cTron
+armor.tooltip.tron_red_3=§8Особый эффект: §cСлед
+armor.tooltip.tron_red_4=§cкрасного светоцикла
+armor.tooltip.tron_red_5=§8==============================
+
+item.Tron_head_green.name=§aСинтезированный шлем Трона
+item.Tron_chest_green.name=§aСинтезированная кираса Трона
+item.Tron_leggs_green.name=§aСинтезированные поножи Трона
+item.Tron_boots_green.name=§aСинтезированные ботинки Трона
+armor.tooltip.tron_green_1=§8===========[ Скин ]===========
+armor.tooltip.tron_green_2=§8Броня из фильма §aTron
+armor.tooltip.tron_green_3=§8Особый эффект: §aСлед
+armor.tooltip.tron_green_4=§aзелёного светоцикла
+armor.tooltip.tron_green_5=§8==============================
+
+
+item.Tron_head_purple.name=§dСинтезированный шлем Трона
+item.Tron_chest_purple.name=§dСинтезированная кираса Трона
+item.Tron_leggs_purple.name=§dСинтезированные поножи Трона
+item.Tron_boots_purple.name=§dСинтезированные ботинки Трона
+armor.tooltip.tron_purple_1=§8===========[ Скин ]===========
+armor.tooltip.tron_purple_2=§8Броня из фильма §dTron
+armor.tooltip.tron_purple_3=§8Особый эффект: §dСлед
+armor.tooltip.tron_purple_4=§dпурпурного светоцикла
+armor.tooltip.tron_purple_5=§8==============================
+
+item.DevilArmorHead.name=§cШлем бездны
+item.DevilArmorChest.name=§cКираса бездны
+item.DevilArmorLegs.name=§cПоножи бездны
+item.DevilArmorBoots.name=§cБотинки бездны
+armor.tooltip.devil_1=§8===========[ Скин ]===========
+armor.tooltip.devil_2=§8Доспехи самого §cДьявола
+armor.tooltip.devil_3=§8Особый эффект: §cПоглощение тьмы
+armor.tooltip.devil_4=§8==============================
+item.CreepArmorHead.name=§aШлем крипера
+item.CreepArmorChest.name=§aКираса крипера
+item.CreepArmorLegs.name=§aПоножи крипера
+item.CreepArmorBoots.name=§aБотинки крипера
+armor.tooltip.creep_1=§8===========[ Скин ]===========
+armor.tooltip.creep_2=§8Броня §aкрипера
+armor.tooltip.creep_3=§8Особый эффект: §aЗаряд
+armor.tooltip.creep_4=§8==============================
+
+rarity.immortal=Immortal
+rarity.legendary=Legendary
+rarity.epic=Epic
+rarity.rare=Rare
+rarity.uncommon=Uncommon
+rarity.common=Common
+reloadgood=§8[§5SkyHard§8] §b %configName% §aуспешно перезагружен.
+reloadbad=[SkyHard] Ошибка загрузки конфига: %configName%. Выставлены значения по умолчанию.
+oregenerator=Генерация руды
+reloadbadplayer=§8[§5SkyHard§8] §aОшибка загрузки конфига: §c%configName%§a. Выставлены значения по умолчанию.
+comment_op=Максимальный размер Онлайн картины и Анимированной картины
+comment_as=ArmorStatus - худ вокруг модели игрока
+comment_as2=Отображение хп и голода в ArmorStatus
+comment_as3=Максимальная дистанция - ArmorStatus
+comment_si=Пермишн на антидроп - Инвентарь + броня | Модули: CosmeticArmor, Baubles
+comment_se=Пермишн, на сохранение опыта
+saveinvmessage=§8[§5SkyHard§8] §aВаш инвентарь был восстановлен.
+saveexpmessage=§8[§5SkyHard§8] §aВаш опыт был восстановлен.
+tile.SkinWorkbench.name=§5Трансмогрификатор
+skin_workbench.color1=§6
+skin_workbench.color2=§8
+skin_workbench.color3=§8§m
+skin_workbench.color4=§
+skin_workbench.open=Открыть
+skin_workbench.choose=Выбрать
+skin_workbench.standart=Стандарт
+dw.skin.tooltip_1=§8==========[ Скин ]============
+dw.skin.tooltip_2=§8Применяется на §6меч
+dw.skin.tooltip_3=§6бесконечности §8в §5AlexTM
+dw.skin.tooltip_4=§8==============================
+item.Crescent_rose_skin.name=§cКресент Роуз
+item.Tenjiry_skin.name=§aТенджирюю
+item.Shinju_skin.name=§aШинджу
+item.ShikamaDodji_skin.name=§aШикама Доджи
+item.VampireKiss_skin.name=§cОбъятия вампира
+item.Vis_molot_skin.name=§5Вис молот
+item.Sun_molot_skin.name=§6Солнечный молот
+item.Ice_molot_skin.name=§bЛедяной молот
+item.Live_molot_skin.name=§aЖивой молот
+item.Dark_molot_skin.name=§8Тёмный молот
+item.Moon_light_skin.name=§bСияние луны
+stming.chat.prefix=§8[§6SkyHard§8] §a
+tile.table.name=§5Мифический верстак
+Workbench.name=Мифический верстак
+tile.Workbench.name=§dМифический верстак
+item.Pure_crystal.name=§bЧистый кристлл
+case.tooltip.crystal_1=§8===========[ Скин ]===========
+case.tooltip.crystal_2=§8Броня из §bчистых кристаллов
+case.tooltip.crystal_3=§8Особый эффект: §bСнегопад
+case.tooltip.crystal_4=§8=============================
+case.tooltip.crystal_5=§8Содержит в себе §bполный набор
+case.tooltip.crystal_6=§81. §bКристальный шлем §8- 1 шт.
+case.tooltip.crystal_7=§82. §bКристальный нагрудник §8- 1 шт.
+case.tooltip.crystal_8=§83. §bКристальные поножи §8- 1 шт.
+case.tooltip.crystal_9=§84. §bКристальные ботинки §8- 1 шт.
+case.tooltip.crystal_10=§8=============================
+case.tooltip.daedra_1=§8===========[ Скин ]===========
+case.tooltip.daedra_2=§8Броня §cДаэдра
+case.tooltip.daedra_3=§8Особый эффект: §cЧастицы Бездны
+case.tooltip.daedra_4=§8=============================
+case.tooltip.daedra_5=§8Содержит в себе §cполный набор
+case.tooltip.daedra_6=§81. §cШлем Даэдра §8 - 1 шт.
+case.tooltip.daedra_7=§82. §cНагрудник Даэдра §8 - 1 шт.
+case.tooltip.daedra_8=§83. §cПоножи Даэдра §8 - 1 шт.
+case.tooltip.daedra_9=§84. §cБотинки Даэдра §8 - 1 шт.
+case.tooltip.daedra_10=§8=============================
+case.tooltip.dark_1=§8===========[ Скин ]===========
+case.tooltip.dark_2=§9Тёмная броня
+case.tooltip.dark_3=§8Особый эффект: §9Тёмные частицы
+case.tooltip.dark_4=§8=============================
+case.tooltip.dark_5=§8Содержит в себе §9полный набор
+case.tooltip.dark_6=§81. §9Тёмный шлем §8 - 1 шт.
+case.tooltip.dark_7=§82. §9Тёмный нагрудник §8 - 1 шт.
+case.tooltip.dark_8=§83. §9Тёмные поножи §8 - 1 шт.
+case.tooltip.dark_9=§84. §9Тёмные ботинки §8 - 1 шт.
+case.tooltip.dark_10=§8=============================
+item.CrystalArmorHead.name=§bКристальный шлем
+item.CrystalArmorChest.name=§bКристальный нагрудник
+item.CrystalArmorLegs.name=§bКристальные поножи
+item.CrystalArmorBoots.name=§bКристальные ботинки
+armor.tooltip.crystal_1=§8=============[ Скин ]=============
+armor.tooltip.crystal_2=§8Броня из §bчистых кристаллов
+armor.tooltip.crystal_3=§8Особый эффект: §bСнегопад
+armor.tooltip.crystal_4=§8==================================
+item.Fairy_wing.name=§dКрыло феи
+case.tooltip.fairy_1=§8===========[ Скин ]===========
+case.tooltip.fairy_2=§8Магическая броня §dфей
+case.tooltip.fairy_3=§8Особый эффект: §dПоглощение магии
+case.tooltip.fairy_4=§8=============================
+case.tooltip.fairy_5=§8Содержит в себе §dполный набор
+case.tooltip.fairy_6=§81. §dШлем фей §8- 1 шт.
+case.tooltip.fairy_7=§82. §dКираса фей §8- 1 шт.
+case.tooltip.fairy_8=§83. §dПоножи фей §8- 1 шт.
+case.tooltip.fairy_9=§84. §dБотинки фей §8- 1 шт.
+case.tooltip.fairy_10=§8=============================
+item.FairyArmorHead.name=§dШлем фей
+item.FairyArmorChest.name=§dКираса фей
+item.FairyArmorLegs.name=§dПоножи фей
+item.FairyArmorBoots.name=§dБотинки фей
+armor.tooltip.fairy_1=§8=============[ Скин ]=============
+armor.tooltip.fairy_2=§8Магическая броня §dфей
+armor.tooltip.fairy_3=§8Особый эффект: §dПоглощение магии
+armor.tooltip.fairy_4=§8==================================
+
+item_meowmere.tooltip_1=§6Можно починить в §aнаковальне
+item_meowmere.tooltip_2=§6Для починки требуется §cР§6а§eд§aу§bж§9н§dы§cй §6к§eа§aм§bе§9н§dь
+item.Meowmere.name=§dМяу-мур
+
+item.UrlPaint.name=§aОнлайн картина
+url_paint.tooltip_1=§8Позволяет отобразить картинку
+url_paint.tooltip_2=§8Используя §aпрямую URL §8ссылку
+item.UrlPaintAnim.name=§6Анимированная картина
+url_paint_anim.tooltip_1=§8Позволяет отобразить картинку
+url_paint_anim.tooltip_2=§8Используя §6прямую URL §8ссылку
+url_paint_anim.tooltip_3=§8А так же §6Gif §8изображение
+
+itemGroup.SkyHard=§5SkyHard
+
+item.VisPlate.name=§5Вис покрытие
+item.IcePlate.name=§bЛедяное покрытие
+item.LivePlate.name=§aЖивое покрытие
+item.SunPlate.name=§6Солнечное покрытие
+item.DarkPlate.name=§8Тёмное покрытие
+
+
+item.EnderBag.name=§5Эндер сумка
+
+item.Vis_dust.name=§5Вис порошок
+item.Fire_dust.name=§6Солнечный порошок
+item.Sky_dust.name=§bЛедяной порошок
+item.Live_dust.name=§aЖивой порошок
+item.Dark_dust.name=§8Тёмный порошок
+
+item.PhantomSword.name=§7Призрачный клинок
+item.MythicalSword.name=§cМифический меч
+
+item.Head.name=§5Даэдрический Шлем
+item.Chest.name=§5Даэдрический Нагрудник
+item.Stanci.name=§5Даэдрические Поножи
+item.Boots.name=§5Даэдрические Ботинки
+item.DarknessAkt.name=§7Тёмный камень
+item.ChestDaedra.name=§cСердце Даэдра
+item.DarknessHead.name=§8Тёмный Шлем
+item.DarknessChest.name=§8Тёмный Нагрудник
+item.DarknessLegs.name=§8Тёмные Поножи
+item.DarknessBoots.name=§8Тёмные Ботинки
+item.WyvernTablet.name=§5Драконья Скрижаль
+
+item.FullThaum.name=§bТом записи исследований
+FullThaum.tooltip_1=§8Открывает все неизученные
+FullThaum.tooltip_2=§8исследования в §bТаумономиконе
+FullThaum.tooltip_3=
+FullThaum.tooltip_4=§8Пропадает при использовании
+
+item.EndPortal.name=§5Доступ в Энд
+EndPortal.tooltip_1=§8Открывает вам доступ
+EndPortal.tooltip_2=§8к землям §5края
+EndPortal.tooltip_3=
+EndPortal.tooltip_4=§8Сдайте в квест!
+
+item.Aspects.name=§bЧистый фрагмент знаний
+Aspects.tooltip_1=§8Открывает §bвсе §8виды аспектов и даёт
+Aspects.tooltip_2=§8по §b100 ед. каждого
+Aspects.tooltip_3=
+Aspects.tooltip_4=§8Пропадает при использовании
+
+item.DelWarp.name=§aОчищающий том искажения
+DelWarp.tooltip_1=§8Полностью §aочищает §8от временного
+DelWarp.tooltip_2=§8и от постоянного искажения
+DelWarp.tooltip_3=
+DelWarp.tooltip_4=§8Пропадает при использовании
+
+item.PermWarps.name=§5Искажённый фрагмент знаний
+PermWarps.tooltip_1=§8Увеличивает показатель
+PermWarps.tooltip_2=§5постоянного §8варпа на §570 ед.
+PermWarps.tooltip_3=
+PermWarps.tooltip_4=§8Пропадает при использовании
+
+five_rec=§5Мифический верстак
+
+tile.XpTier.0.name=§aБлок опыта I
+tile.XpTier.1.name=§aБлок опыта II
+tile.XpTier.2.name=§aБлок опыта III
+tile.XpTier.3.name=§aБлок опыта IV
+tile.XpTier.4.name=§aБлок опыта V
+item.PlateIhor.name=§aПластина ихора
+item.ManaQuartz.name=§aМана истинный кварц
+item.BloodQuartz.name=§aКровавый истинный кварц
+item.ShardRune.name=§aОсколок кровавой руны
+item.ElectroSkullSkeleton.name=§aСкелет-электрод
+item.ElectroSkullCreeper.name=§aКрипер-электрод
+item.EnderBag.name=§aСумка края
+item.amuletbox.name=§aКоробка амулетов
+item.mechbox.name=§aКоробка механизмов
+item.runebox.name=§aКоробка рун
+item.swordbox.name=§aКоробка оружий
+item.DryOil.name=§aЗастывший кусок нефти
+item.primordial_pearl_mote.name=§5Осколок сингулярной жемчужины I
+item.primordial_pearl_nodule.name=§5Осколок сингулярной жемчужины II
+
+tile.anime.name=§bАниме
+tile.anime1.name=§bАниме
+tile.anime2.name=§bАниме
+tile.anime3.name=§bАниме
+tile.anime4.name=§bАниме
+tile.anime5.name=§bАниме
+tile.anime6.name=§bАниме
+tile.anime7.name=§bАниме
+
+item.magicproz.name=Отпечатанный магический контур
+item.magicproz1.name=Магический процессор
+item.magicprozPress.name=Магический пресс для высекателя
+item.terraproz.name=Отпечатанный террасталевый контур
+item.terraproz1.name=Террасталевый процессор
+item.terraprozPress.name=Террасталевый пресс для высекателя
+
+tile.SpeedTigel.0.name=§cЛавовый ускоритель тигеля
+tile.SpeedTigel.1.name=§cМагмовый ускоритель тигеля
+tile.SpeedTigel.2.name=§cПеротиумовый ускоритель тигеля

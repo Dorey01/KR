@@ -1,0 +1,5 @@
+{
+  "open_box": {"category": "master", "sounds": ["alextm:open_box"]},
+  "smoke": {"category": "master", "sounds": ["alextm:smoke"]}
+}
+}
